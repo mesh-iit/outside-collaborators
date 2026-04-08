@@ -1,0 +1,4 @@
+spark-study-flexible-structures:
+  nubots/mechanics:
+    type: "group"
+    permissions: "write"
