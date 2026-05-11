@@ -1,0 +1,4 @@
+spark-study-actuations:
+  nubots/mechanics:
+    type: "group"
+    permissions: "write"
