@@ -5,7 +5,6 @@ hsp-iit/everyone:
   - "MariaLombardi"
   - "morpheus1820" #Stefano Rosa
   - "elandini84"
-  - "fedeceola" 
   - "ste93" #Stefano Bernagozzi
   - "gabrielecaddeo"
   - "FedericoVasile1"
@@ -35,7 +34,6 @@ hsp-iit/everyone:
 # these users will have read access only
 hsp-iit/purchases/read:
   - "SimoneMic" #Simone Micheletti
-  - "fedeceola"
   - "MariaLombardi"
   - "CarmelaCalabrese"
   - "gabrielecaddeo"
@@ -78,7 +76,6 @@ hsp-iit/ergocub:
 hsp-iit/hpc:
   - "lornat75"
   - "GiuliaP"
-  - "fedeceola"
   - "FedericoVasile1"
   - "steb6" #Stefano Berti
   - "gabrielecaddeo"
