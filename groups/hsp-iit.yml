@@ -22,7 +22,6 @@ hsp-iit/everyone:
   - "LeoGori" #Leonardo Gori
   - "carlo-alessi" #Carlo Alessi
   - "malcol123" #Martina Columbaro
-  - "FrancescoGervino13" #Francesco Gervino
   - "MarcoNasato" #Marco Nasato
   - "mxhrnxz" #Mehrnaz Amirkalali
   - "BeniaminoSquitieri" #BeniaminoSquitieri
@@ -30,6 +29,8 @@ hsp-iit/everyone:
   - "davide-enr" #Davide Enrico
   - "germanrv20" #German RODRIGUEZ VIDAL
   - "ShadyEgypt" #Shady Rafat Ibrahim Yousif ABDELMALEK
+  - "matteodesanctis2002" #Matteo De Sanctis
+  - "RicDeSa02" #Riccardo De Sanctis
 
 # these users will have read access only
 hsp-iit/purchases/read:
@@ -84,8 +85,9 @@ hsp-iit/hpc:
   - "enyen" #Enyen Puang
   - "GelsominaDiPalma" #Gelsomina di Palma
   - "fdonat7" #Francesco Donato
-  - "carlo-alessi" #Carlo Alessi
   - "FrancescoGervino13" #Francesco Gervino
   - "davide-enr" #Davide Enrico 
+  - "matteodesanctis2002" #Matteo De Sanctis
+  - "RicDeSa02" #Riccardo De Sanctis
 
   
