@@ -1,0 +1,4 @@
+study-reinforcement-learning:
+  nubots/mechanics:
+    type: "group"
+    permissions: "write"
