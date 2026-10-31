@@ -2,3 +2,7 @@ project-raicam-smart-ecargo:
   raicam/everyone:
     type: "group"
     permissions: "read"
+
+  Gio-DS:
+    type: "user"
+    permissions: "read"
